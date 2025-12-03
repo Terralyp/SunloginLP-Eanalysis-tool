@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\18\\SunloginLPE\\27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|SunloginLPE\\Form11\\Form1.csproj|d:\\githubnew\\18\\sunloginlpe\\27\\sunloginlpe\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|SunloginLPE\\Form11\\Form1.csproj|solutionrelative:sunloginlpe\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|SunloginLPE\\SunloginLPE.csproj|d:\\githubnew\\18\\sunloginlpe\\27\\sunloginlpe\\sunlogininfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|SunloginLPE\\SunloginLPE.csproj|solutionrelative:sunloginlpe\\sunlogininfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|SunloginLPE\\SunloginLPE.csproj|d:\\githubnew\\18\\sunloginlpe\\27\\sunloginlpe\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|SunloginLPE\\SunloginLPE.csproj|solutionrelative:sunloginlpe\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\18\\SunloginLPE\\27\\SunloginLPE\\Form11\\Form1.cs",
+              "RelativeDocumentMoniker": "SunloginLPE\\Form11\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\18\\SunloginLPE\\27\\SunloginLPE\\Form11\\Form1.cs [Design]",
+              "RelativeToolTip": "SunloginLPE\\Form11\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:38:57.795Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SunloginInfo.cpp",
+              "DocumentMoniker": "D:\\GithubNew\\18\\SunloginLPE\\27\\SunloginLPE\\SunloginInfo.cpp",
+              "RelativeDocumentMoniker": "SunloginLPE\\SunloginInfo.cpp",
+              "ToolTip": "D:\\GithubNew\\18\\SunloginLPE\\27\\SunloginLPE\\SunloginInfo.cpp",
+              "RelativeToolTip": "SunloginLPE\\SunloginInfo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T12:38:56.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "D:\\GithubNew\\18\\SunloginLPE\\27\\SunloginLPE\\stdafx.cpp",
+              "RelativeDocumentMoniker": "SunloginLPE\\stdafx.cpp",
+              "ToolTip": "D:\\GithubNew\\18\\SunloginLPE\\27\\SunloginLPE\\stdafx.cpp",
+              "RelativeToolTip": "SunloginLPE\\stdafx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T12:38:55.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
