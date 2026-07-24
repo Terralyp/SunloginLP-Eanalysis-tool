@@ -1,0 +1,6 @@
+D:\GithubNew\12\CyberFinance\Finance\CyberFinance\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\12\CyberFinance\Finance\CyberFinance\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\GithubNew\18\SunloginLPE\27\SunloginLPE\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\18\SunloginLPE\27\SunloginLPE\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\GithubNew\18\sql-stack-telemetry\27\SunloginLPE\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\18\sql-stack-telemetry\27\SunloginLPE\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
